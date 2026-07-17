@@ -1,4 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Stéphan P.
+### Full Stack Web Developer 🇲🇬
+
+---
+
+## 🚀 About Me
+
+I am a Full Stack Web Developer
+from Mahajanga, Madagascar.
+Currently in my final year of
+Computer Science (Software
+Engineering) at ESSGAM University.
+
+I specialize in building complete
+web applications from backend
+to frontend.
+
+---
+
+## 🛠️ My Skills
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
+---
+
+## 💼 My Projects
+
+### 🏠 1. Agence Immobilière Fredon
+> Real estate management website
+
+**Features :**
+- Property listings & search
+- Admin dashboard
+- User authentication
+- Responsive design
+
+**Tech :** PHP | MySQL | HTML | CSS | JavaScript
+
+🎥 [Watch Demo] https://drive.google.com/file/d/1O6Ve4vNF_M_DrYINSa3tAz4ngw4Llsy_/view?usp=sharing
+
+---
+
+### 🏨 2. Paradise Hôtel
+> Hotel reservation management system
+
+**Features :**
+- Room reservation system
+- Admin dashboard
+- Statistics & reports
+- User authentication
+- Search & filters
+
+**Tech :** PHP | MySQL | JavaScript | HTML | CSS
+
+---
+
+### ⚙️ 3. Project Management App
+> Full stack project management application
+
+**Features :**
+- Task management
+- User authentication
+- REST API backend
+- React.js frontend
+- PostgreSQL database
+
+**Tech :** Java | Spring Boot | React.js | PostgreSQL
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email : stephanpapany@gmail.com
+- 💼 Freelancer : [My Profile](https://www.freelancer.com/u/damyni)
+- 📍 Location : Mahajanga, Madagascar 🇲🇬
+
+---
+
+⭐ Feel free to check my repositories !## Hi there 👋
 
 <!--
 **Stephan0503/Stephan0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
