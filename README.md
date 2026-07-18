@@ -25,9 +25,11 @@
 ### 🏠 1. Agence Immobilière Fredon
 > Real estate management website
 
-![Fredon 1](fredon-1.png.jpg)
-![Fredon 2](fredon-2.png.jpg)
-![Fredon 3](fredon-3.png.jpg)
+<p align="center">
+  <img src="fredon-1.png.jpg" width="30%"/>
+  <img src="fredon-2.png.jpg" width="30%"/>
+  <img src="fredon-3.png.jpg" width="30%"/>
+</p>
 
 **Features :**
 - Property listings & search
@@ -45,9 +47,11 @@
 ### 🏨 2. Paradise Hôtel
 > Hotel reservation management system
 
-![Hotel 1](hotel-1.png.jpg)
-![Hotel 2](hotel-2.png.jpg)
-![Hotel 3](hotel-3.png.jpg)
+<p align="center">
+  <img src="hotel-1.png.jpg" width="30%"/>
+  <img src="hotel-2.png.jpg" width="30%"/>
+  <img src="hotel-3.png.jpg" width="30%"/>
+</p>
 **Features :**
 - Room reservation system
 - Admin dashboard
@@ -63,9 +67,11 @@
 ### ⚙️ 3. Project Management App
 > Full stack project management application
 
-![Management 1](management-1.png.jpg)
-![Management 2](management-2.png.jpg)
-![Management 3](management-3.png.jpg)
+<p align="center">
+  <img src="management-1.png.jpg" width="30%"/>
+  <img src="management-2.png.jpg" width="30%"/>
+  <img src="management-3.png.jpg" width="30%"/>
+</p>
 
 **Features :**
 - Task management
