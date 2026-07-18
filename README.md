@@ -1,19 +1,7 @@
-# 👋 Hi, I'm Stéphan P.
-### Full Stack Web Developer 🇲🇬
+# 👋 Hi, I'm Stéphan 🇲🇬
 
----
-
-## 🚀 About Me
-
-I am a Full Stack Web Developer
-from Mahajanga, Madagascar.
-Currently in my final year of
-Computer Science (Software
-Engineering) at ESSGAM University.
-
-I specialize in building complete
-web applications from backend
-to frontend.
+### Full Stack Web Developer
+### Mahajanga, Madagascar
 
 ---
 
@@ -45,7 +33,8 @@ to frontend.
 
 **Tech :** PHP | MySQL | HTML | CSS | JavaScript
 
-🎥 [Watch Demo] https://drive.google.com/file/d/1O6Ve4vNF_M_DrYINSa3tAz4ngw4Llsy_/view?usp=sharing
+🎥 [Watch Demo](https://drive.google.com/file/d/1O6Ve4vNF_M_DrYINSa3tAz4ngw4Llsy_/view?usp=sharing)
+📁 [View Code](https://github.com/Stephan0503/fredon-immobilier)
 
 ---
 
@@ -56,10 +45,11 @@ to frontend.
 - Room reservation system
 - Admin dashboard
 - Statistics & reports
-- User authentication
 - Search & filters
 
 **Tech :** PHP | MySQL | JavaScript | HTML | CSS
+
+📁 [View Code](https://github.com/Stephan0503/paradise-hotel)
 
 ---
 
@@ -71,33 +61,17 @@ to frontend.
 - User authentication
 - REST API backend
 - React.js frontend
-- PostgreSQL database
 
 **Tech :** Java | Spring Boot | React.js | PostgreSQL
+
+📁 [View Code](https://github.com/Stephan0503/cc_i02b_java2)
 
 ---
 
 ## 📫 Contact Me
-
 - 📧 Email : stephanpapany@gmail.com
 - 💼 Freelancer : [My Profile](https://www.freelancer.com/u/damyni)
 - 📍 Location : Mahajanga, Madagascar 🇲🇬
 
 ---
-
-⭐ Feel free to check my repositories !## Hi there 👋
-
-<!--
-**Stephan0503/Stephan0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Feel free to check my repositories !
